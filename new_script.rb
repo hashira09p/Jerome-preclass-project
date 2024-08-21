@@ -1,2 +1,2 @@
-print "This is new Ruby Script\n"
-print "It's Easy Right?\n"
+print "This is new Ruby Script by jerome\n"
+print "It's Easy Right? by jerome\n"
